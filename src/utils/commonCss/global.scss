@@ -1,0 +1,14 @@
+@import '@/utils/commonCss/scheme.scss';
+html {
+    overflow-y:hidden;
+}
+
+li{
+    list-style-type:none;
+}
+
+button{
+    cursor: pointer;
+    border: 1px solid $primary;
+    background-color: transparent;
+}
